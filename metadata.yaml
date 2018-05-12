@@ -1,0 +1,29 @@
+_repo: L-exp-dition-de-la-Jeannette-au-p-le-Nord-racont-e-par-tous-les-membres-de-l-exp-dition---vol__46357
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46357-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Geslin, Jules
+    gutenberg_agent_id: '43739'
+    url: http://www.gutenberg.org/2009/agents/43739
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2014-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46357'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jeannette (Ship)'
+- !lcsh 'Siberia (Russia) -- Description and travel'
+- !lcc 'G'
+- !lcsh 'Arctic regions'
+title: "L'expédition de la Jeannette au pôle Nord racontée par tous les membres de\
+  \ l'expédition - volume 1\r\nouvrage composé des documents reçus par le \"New-York\
+  \ Herald\" de 1878 à 1882"
+url: http://www.gutenberg.org/ebooks/46357
