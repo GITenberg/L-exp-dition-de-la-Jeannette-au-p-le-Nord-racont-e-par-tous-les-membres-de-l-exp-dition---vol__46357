@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43739'
     url: http://www.gutenberg.org/2009/agents/43739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46357#L-exp-dition-de-la-Jeannette-au-p-le-Nord-racont-e-par-tous-les-membres-de-l-exp-dition---vol_
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2014-07-22'
 gutenberg_type: Text
